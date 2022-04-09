@@ -21,7 +21,7 @@
 
         <!-- Kernel tree -->
         <remote name="kernel"
-                fetch="https://github.com/P-Salik" />
+                fetch="https://github.com/techyminati" />
 
         <project path="kernel/realme/RMX1941" name="android_kernel_realme_karashi" remote="kernel" revision="android-10.0" clone-depth="1" />
 
