@@ -21,9 +21,9 @@
 
         <!-- Kernel tree -->
         <remote name="kernel"
-                fetch="https://github.com/techyminati" />
+                fetch="https://github.com/sarthakroy2002" />
 
-        <project path="kernel/realme/RMX1941" name="android_kernel_realme_karashi" remote="kernel" revision="android-10.0" clone-depth="1" />
+        <project path="kernel/realme/RMX1941" name="kernel_realme_RMX2020" remote="kernel" revision="Q" clone-depth="1" />
 
         <!-- Parts -->
         <remote name="parts"
